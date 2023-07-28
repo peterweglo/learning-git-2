@@ -1,0 +1,14 @@
+body {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-size: 18px;
+  font-style: italic;
+}
+
+p:nth-last-of-type(1) {
+  font-size: 14px;
+  font-style: italic;
+}
