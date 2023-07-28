@@ -7,6 +7,9 @@ h2 {
   font-size: 18px;
   font-style: italic;
 }
+p {
+  color: #333;
+}
 
 p:nth-last-of-type(1) {
   font-size: 14px;
