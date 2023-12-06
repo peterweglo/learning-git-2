@@ -25,3 +25,7 @@ p:nth-last-of-type(1) {
   font-size: 14px;
   font-style: italic;
 }
+
+.wrapper {
+  background-color: #ddd;
+}
