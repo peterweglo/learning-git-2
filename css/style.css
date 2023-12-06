@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
   max-width: 500px;
   margin: 0 auto;
@@ -7,6 +7,10 @@ body {
 
 h1 {
   font-size: 40px;
+}
+
+.title {
+  color: #666;
 }
 
 h2 {
